@@ -1,20 +1,41 @@
 {
-  "name": "Showing All 32",
-  "short_name": "ShowingAll32",
-  "start_url": "https://www.showingall32.com",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "description": "Showing All 32-yourgotosite",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ShowingAll32",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ShowingAll32",
+  "start_url": "https://www.showingall32.com/",
+  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://arringtonsolutions79-byte.github.io/showingall32-pwa/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "https://lh3.googleusercontent.com/sitesv/AA5AbUDvW6WKZAI5M1tyC3FyeVxutD2kGFxnL34LzX3cfGdKf0FQEfivYjWovWbPihD3ksuSBBkhVyj6L6acPvruPzr1MyiMUPH3VYsMfNrd1lUSviLtY9rvNs_bHuu_jPeEFG7bmb7dSo2lXv6JAn1quLVImAaWNINTX2Q-mB1fx-Lp3ntyU5XZ2S4Zei_1gnGMzLHtdrFgSs9f-xW1RZqkamg",
+      "type": "image/png",
+      "sizes": "1500x1500",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1500,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
     },
     {
-      "src": "https://arringtonsolutions79-byte.github.io/showingall32-pwa/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "https://lh3.googleusercontent.com/sitesv/AA5AbUDXaNozXwlngdYNajqrSp7EALhbXWl_RtvyOt3JQysQ7ce68dH5RSzKtvd87g1yLHkDGtUy3zQKCFPSqatRYLfPkcVBDuYu8Zj0xTt0BfxFv-ZVJu8GNnicBc9KWhj1Lb-6-84WBGx0gWyr6kcr76rMbUEI7g7_vbr6EnLsAepC77Io0J2O_s1p2Kxr=w16383",
+      "type": "image/png",
+      "sizes": "1500x1500",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1500,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
     }
-  ]
+  ],
+  "id": "com.showingall32.app"
 }
